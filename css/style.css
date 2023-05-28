@@ -1,6 +1,9 @@
 .hidden{
     display: none
 }
+.show{
+    display: block;
+}
 .border-style{
     border: 3px solid red;
 }
