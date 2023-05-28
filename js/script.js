@@ -1,0 +1,1 @@
+console.log("Chapter 52 Manipulating images and text to onwards");
