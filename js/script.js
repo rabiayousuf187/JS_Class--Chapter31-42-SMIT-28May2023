@@ -5,5 +5,6 @@ function hide(){
     console.log("hide Funcation Call");
     console.log( document.getElementById("img1"));
 
+    // document.getElementById("img1").className = "hidden";
     document.getElementById("img1").className += " resize";
 }
